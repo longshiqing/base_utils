@@ -1,0 +1,9 @@
+1、编译出egg
+
+windows：python setup.py bdist_egg
+
+linux：sudo easy_install dist/pada_utils-0.1-py2.7.egg
+
+2、安装
+
+python setup.py install
